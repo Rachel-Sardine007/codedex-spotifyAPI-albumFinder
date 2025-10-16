@@ -8,6 +8,7 @@ https://www.codedex.io/projects/build-an-album-finder-with-spotify-api
 
 
 Main body code: > src > App.jsx
+
 Key takeaways:
 - Spotify API documentation
 - fixed: insecure redirect URI, the solution reference to: https://community.spotify.com/t5/Spotify-for-Developers/INVALID-CLIENT-Insecure-redirect-URI-using-custom-URI/td-p/6919036
